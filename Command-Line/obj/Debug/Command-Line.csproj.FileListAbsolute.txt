@@ -1,0 +1,6 @@
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\bin\Debug\Command-Line.exe.config
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\bin\Debug\Command-Line.exe
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\bin\Debug\Command-Line.pdb
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\obj\Debug\Command-Line.csprojResolveAssemblyReference.cache
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\obj\Debug\Command-Line.exe
+C:\Div\Origin\69-Command-Line-Parameters\Command-Line\obj\Debug\Command-Line.pdb
